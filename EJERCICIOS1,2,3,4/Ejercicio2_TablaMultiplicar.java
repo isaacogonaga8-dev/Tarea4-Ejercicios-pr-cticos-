@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TablaMultiplicar {
+public class Ejercicio2_TablaMultiplicar {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         int numero;
