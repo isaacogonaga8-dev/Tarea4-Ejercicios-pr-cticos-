@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ClasificacionCalificaciones {
+public class Ejercico1_Calificaciones {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         
