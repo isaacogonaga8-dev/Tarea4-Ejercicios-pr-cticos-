@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ControlIntentos {
+public class Ejercicio4_ControlIntentos {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
